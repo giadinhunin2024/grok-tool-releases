@@ -1,6 +1,6 @@
 {
   "version": "1.0.1",
-  "download_url_windows": "https://github.com/giadinhunin2024/grok-tool-releases/raw/main/Grok_Tool_1.0.1_Windows.zip",
-  "download_url_macos": "https://github.com/giadinhunin2024/grok-tool-releases/raw/main/Grok_Tool_1.0.1_Mac.zip",
+  "download_url_windows": "https://github.com/giadinhunin2024/grok-tool-releases/releases/download/v1.0.0/Tool%20Grok%20Upscale.exe",
+  "download_url_macos": "https://github.com/giadinhunin2024/grok-tool-releases/releases/download/v1.0.0/Tool%20Grok%20Upscale%20Mac.zip",
   "changelog": "- Fix lỗi 403 Ghép Trang Phục (WebSocket)\n- Fix 4K upscale bị bỏ qua\n- Tối ưu tốc độ AI upscale (GPU + đa luồng)\n- Progress log từng frame khi upscale"
 }
