@@ -1,0 +1,6 @@
+{
+  "version": "1.0.1",
+  "download_url_windows": "https://github.com/giadinhunin2024/grok-tool-releases/raw/main/Grok_Tool_1.0.1_Windows.zip",
+  "download_url_macos": "https://github.com/giadinhunin2024/grok-tool-releases/raw/main/Grok_Tool_1.0.1_Mac.zip",
+  "changelog": "- Fix loi 403 Ghep Trang Phuc (WebSocket)\n- Fix 4K upscale bi bo qua\n- Toi uu toc do AI upscale (GPU + threads)\n- Progress log tung frame khi upscale"
+}
